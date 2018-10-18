@@ -10,9 +10,9 @@ A card game for playing memory
 Now enjoy playing the game!
 
 ## Rules
-By default there are 4 players
-Each player take terms in picking two cards
-Only scores when the two cards match perfectly, and this player can continue playing, otherwise, will switch to the next player. All scores are recorded in the board.
+By default there are 4 players.
+Each player take terms in picking two cards.
+Only scores when the two cards match perfectly, and this player can continue playing, otherwise, these two cards will face down and the game will switch to the next player - everyone needs to memorise the cards in order to score! All scores are recorded in the board.
 
 * Not matched (nothing matching ➡️ not scoring, switch to next player)
 ![alt text](https://github.com/ami-zou/Memory-Card-Game/blob/master/screenshots/Unmatched.png)
