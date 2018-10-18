@@ -13,14 +13,15 @@ Now enjoy playing the game!
 By default there are 4 players
 Each player take terms in picking two cards
 Only scores when the two cards match perfectly, and this player can continue playing, otherwise, will switch to the next player. All scores are recorded in the board.
-* Partially match (only matches number or colour; not scoring ➡️ switch to next player)
-![alt text](https://github.com/ami-zou/Memory-Card-Game/blob/master/screenshots/Partially%20matched.png)
 
 * Not matched (nothing matching ➡️ not scoring, switch to next player)
 ![alt text](https://github.com/ami-zou/Memory-Card-Game/blob/master/screenshots/Unmatched.png)
 
 * Matched! (Scoring 1 point, and this player continues to play🙌🏼)
 ![alt text](https://github.com/ami-zou/Memory-Card-Game/blob/master/screenshots/Matching.png)
+
+* Partially match (only matches number or colour; not scoring ➡️ switch to next player)
+![alt text](https://github.com/ami-zou/Memory-Card-Game/blob/master/screenshots/Partially%20matched.png)
 
 The game finishes when all cards are matched💯✨. According to Wikipedia, on average, it takes 44 times to finish a deck of 52 cards (without jokers). Good luck on playing🚀! 
 
