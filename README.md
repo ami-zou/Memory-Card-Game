@@ -1,4 +1,4 @@
-# Memory-Card-Game
+# Memory Card Game
 A card game for playing memory
 
 ## Start the game
@@ -23,3 +23,6 @@ Only scores when the two cards match perfectly, and this player can continue pla
 ![alt text](https://github.com/ami-zou/Memory-Card-Game/blob/master/screenshots/Matching.png)
 
 The game finishes when all cards are matched💯✨. According to Wikipedia, on average, it takes 44 times to finish a deck of 52 cards (without jokers). Good luck on playing🚀! 
+
+## Development
+I coded this little game in a weekend☕️. A good practice for using JPanel and java application designs. Right now this version has a set value of 4 players with a deck of 2-coloured cards. Next step would be taking inputs from users to decide the number of players, ways of colouring (either 2-coloured or 4-coloured), and the number of decks. 
